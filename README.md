@@ -21,5 +21,5 @@
 </div>
 
 <div align="center">
-  <img src="pics/teaserstreamer.png" alt="teaserstreamer" width="700px" />
+  <img src="pics/teaserstreamers.jpg" alt="teaserstreamer" width="700px" />
 </div>
