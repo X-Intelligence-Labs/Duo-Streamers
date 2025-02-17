@@ -1,6 +1,6 @@
 # Duo Streamers: A Streaming Gesture Recognition Framework
 
-<div align="center" style="max-width: 16cm; margin: auto;">
+<div align="center" style="max-width: 16cm; margin: auto;" markdown="1">
 
   
 **Boxuan Zhu**<sup>1,2</sup> <boxuan.zhu@liverpool.ac.uk>  
@@ -22,4 +22,10 @@
 
 <div align="center">
   <img src="pics/teaserstreamers.jpg" alt="teaserstreamer" width="700px" />
+</div>
+
+<div align="center">
+  <video width="640" controls>
+    <source src="DuoStreamers_Visualization.mp4" type="video/mp4">
+  </video>
 </div>
