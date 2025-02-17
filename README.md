@@ -20,6 +20,37 @@
 
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <!-- “Code” -->
+  <a href="https://github.com/JulienInWired/Duo-Streamers"
+     style="text-decoration: none;
+            display: inline-block;
+            margin: 0 10px;
+            padding: 8px 16px;
+            background: #24292e;  /* GitHub */
+            color: #ffffff;
+            border-radius: 6px;
+            font-weight: bold;">
+    <!-- Pic or Font Awesome -->
+    Code
+  </a>
+
+  <!-- “arXiv” -->
+  <a href="https://arxiv.org/abs/xxxx.xxxxx"
+     style="text-decoration: none;
+            display: inline-block;
+            margin: 0 10px;
+            padding: 8px 16px;
+            background: #b31b1b;  /* arXiv */
+            color: #ffffff;
+            border-radius: 6px;
+            font-weight: bold;">
+    <!-- <svg> -->
+    arXiv
+  </a>
+</div>
+
+
 <div align="center">
   <img src="pics/teaserstreamers.jpg" alt="teaserstreamer" width="700px" />
 </div>
