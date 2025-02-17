@@ -20,6 +20,11 @@
 
 </div>
 
+
+<div align="center">
+  <img src="pics/teaserstreamers.jpg" alt="teaserstreamer" width="700px" />
+</div>
+
 <div align="center" style="margin-top: 20px;">
   <!-- “Code” -->
   <a href="https://github.com/JulienInWired/Duo-Streamers"
@@ -48,11 +53,6 @@
     <!-- <svg> -->
     arXiv
   </a>
-</div>
-
-
-<div align="center">
-  <img src="pics/teaserstreamers.jpg" alt="teaserstreamer" width="700px" />
 </div>
 
 ## Abstract
