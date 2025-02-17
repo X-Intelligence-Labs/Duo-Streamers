@@ -1,7 +1,8 @@
-# Duo-Streamers
-Code implementation of the streaming gesture recognition framework
+# Duo Streamers: A Streaming Gesture Recognition Framework
+
 <div align="center" style="max-width: 16cm; margin: auto;">
 
+  
 **Boxuan Zhu**<sup>1,2</sup> <boxuan.zhu@liverpool.ac.uk>  
 **Sicheng Yang**<sup>1</sup> <940863869@qq.com>  
 **Zhuo Wang**<sup>1</sup> <zhuohci01@gmail.com>  
@@ -19,3 +20,6 @@ Code implementation of the streaming gesture recognition framework
 
 </div>
 
+<div align="center">
+  <img src="pics/teaserstreamer.png" alt="teaserstreamer" width="700px" />
+</div>
