@@ -36,7 +36,7 @@
   </a>
 
   <!-- “arXiv” -->
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"
+  <a href="https://arxiv.org/abs/2502.12297"
      style="text-decoration: none;
             display: inline-block;
             margin: 0 10px;
