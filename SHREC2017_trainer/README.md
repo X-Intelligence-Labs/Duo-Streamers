@@ -17,7 +17,7 @@ The code is organized into the following modules:
 
 Please use the best model below for training:
 
-**TCRN**: RNN-Lite model that introduces a temporal convolutional recurrent network with a three-layer external hidden state.
+**TCRN**: RNN-Lite model with a temporal convolutional recurrent network module. The temporal convolutional recurrent network module discretizes the input stream and ensures that the external hidden state of the RNN-Lite model is updated every 3 frames.
 
 ## Usage
 
