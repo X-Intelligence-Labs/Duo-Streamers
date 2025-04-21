@@ -15,13 +15,9 @@ The code is organized into the following modules:
 
 ## Models
 
-The implementation includes several models:
+Please use the best model below for training:
 
-1. **StreamingSightMu**: Advanced gated recurrent model with joint attention mechanism
-2. **StreamingSightBi**: Bidirectional LSTM model
-3. **StreamingSightMuOriginal**: Original model with recurrent fully connected layers
-4. **TCRN**: Temporal Convolutional Recurrent Network
-5. **MSTCRN**: Multi-Scale Temporal Convolutional Recurrent Network with fast and slow update paths
+**TCRN**: RNN-Lite model that introduces a temporal convolutional recurrent network with a three-layer external hidden state.
 
 ## Usage
 
